@@ -48,7 +48,7 @@ namespace Ethereum
                 {
                     Console.WriteLine(e.StackTrace);
                 }
-                Thread.Sleep(300000);
+                Thread.Sleep(60000);
             }
             
         }
